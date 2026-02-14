@@ -1,2 +1,2 @@
 # Practice
-my name is joonyoung Lee from south korea
+this is the place that I'm practing coding
